@@ -20,7 +20,7 @@ u = c(2, 3 ,4)
 #names(cost) = c(t, s, u)
 
 #which_min
-cost = c(50, 75, 90, 100, 150)
+cost = c(50, 750, 9, 100, 150)
 which.min(cost)
 
 

@@ -10,6 +10,10 @@ class(murders$abb)
 
 #head(murders)
 
+# vectorization
 x = c(1, 2, 3, 4)
 y = c(1, 2, 3, 4)
-x + y
+#x + y
+
+# the max total murders
+max(murders$total)
