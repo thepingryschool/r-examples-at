@@ -1,10 +1,12 @@
 library(dslabs)
 data("murders")
 
+murders
+
 
 #murders$abb
 #murders[["abb"]]
-class(murders$abb)
+#class(murders$abb)
 
 #str(murders)
 
@@ -16,4 +18,7 @@ y = c(1, 2, 3, 4)
 #x + y
 
 # the max total murders
-max(murders$total)
+#max(murders$total)
+
+class(murders$region)
+levels(murders$region)
