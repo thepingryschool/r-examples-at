@@ -6,7 +6,7 @@ tomato = read.table( file = theUrl, header = TRUE, sep = ",")
 
 class(tomato)
 tomato
-
+ 
 print("-----------------")
 dim(tomato)
 ncol(tomato)

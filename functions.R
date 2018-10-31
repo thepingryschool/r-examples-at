@@ -17,6 +17,7 @@ identical(mean(x), avg(x))
 
 print("-----------------")
 
+#overloaded function
 avg = function(x, arithmetic = TRUE){
   n = length(x)
   ifelse(arithmetic, sum(x)/n, prod(x)^(1/n))

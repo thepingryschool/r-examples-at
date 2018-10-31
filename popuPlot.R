@@ -5,6 +5,11 @@ data(murders)
 population_in_millions <- murders$population/10^6
 total_gun_murders <- murders$total
 
+# Create a histogram of this variable
+png(file="popuHist.png")
+hist(population_in_millions)
+dev.off()
+
 #png(file="popuPlot.png")
 #plot(population_in_millions, total_gun_murders)
 #dev.off()
@@ -20,9 +25,3 @@ log10_total_gun_murders = log10(total_gun_murders)
 
 # Store the population in millions and save to population_in_millions
 population_in_millions <- murders$population/10^6
-
-
-# Create a histogram of this variable
-png(file="popuHist.png")
-hist(population_in_millions)
-dev.off()
