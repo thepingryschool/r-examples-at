@@ -3,6 +3,7 @@ data(murders)
 
 library(dplyr)
 
+# adding a murder rate column to the data frame
 my_states = murders %>% mutate(rate = total/population*100000)
 
 head(my_states)
