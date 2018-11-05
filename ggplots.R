@@ -15,7 +15,7 @@ dev.off()
 # save basics of ggplot object to a variable
 g = ggplot(diamonds, aes(x = carat, y = price))
 g
-# need to add the geometirc layer to render the graph
+# need to add the geometric layer to render the graph
 g = g + geom_point(aes(color = color))
 g
 
@@ -28,6 +28,6 @@ g + geom_point(aes(color = clarity)) + facet_wrap(~color)
 # row or a column
 g + geom_point(aes(color = clarity)) + facet_grid(cut~clarity)
 
-# faceting works with histograms or any other geometirc layers
+# faceting works with histograms or any other geometric layers
 h = ggplot(diamonds, aes(x = carat)) + geom_histogram() + facet_wrap(~color)
 h
