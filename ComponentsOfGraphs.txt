@@ -1,0 +1,10 @@
+1. Data
+2. Geometry component (scatter plot, bar plot, hist, boxplot, smooth density)
+3. Aesthetic mapping (xlab, ylab, text to denote states, color to denote regions)
+4. scale of x axis and y axis
+5. Labels, title, legends etc
+
+ggplot2 syntax
+data %>% ggplot() + Layer1 + Layer2 + ... + LayerN (with dplyr)
+
+ggplot(data) + Layer1 + Layer2 + ... + LayerN
