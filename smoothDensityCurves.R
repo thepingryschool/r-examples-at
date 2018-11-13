@@ -12,7 +12,7 @@ dev.off()
 png(file = "SmoothDensityWHistogram.png")
 hs = ggplot(diamonds, aes(x = carat))
 hs = hs + geom_histogram(aes(y=..density..), color="black", fill="blue", alpha = .5)
-
+hs
 hs + geom_density(adjust = 1, alpha=.3, fill="#FF6666")
 dev.off()
 
@@ -31,5 +31,5 @@ dev.off()
 # overlaying different groups2
 png(file = "SmoothDensity2.png")
 s1 = ggplot(diamonds, aes(carat, fill = cut))
-s1 + geom_density(adjust = 1, alpha= .3)
+s1 + geom_density(adjust = 1, alpha= 1)
 dev.off()
