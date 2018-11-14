@@ -5,16 +5,16 @@ library(ggplot2)
 library(dplyr)
 
 # first associate the graph with the data and create a data object
-#sp = ggplot(murders)
+sp = ggplot(murders)
 #class(sp)
 #sp
 
 # the first added layer is to define the Geometry (add size later)
-#sp = sp + geom_point(aes(x = population/10^6, y = total, size = 3))
+sp = sp + geom_point(aes(x = population/10^6, y = total, size = 3))
 #sp
 
 # add the layer geom_text (add nudge_x later)
-#sp = sp + geom_text(aes(population/10^6, total, label = abb), nudge_x = 1)
+sp = sp + geom_text(aes(population/10^6, total, label = abb), nudge_x = 1)
 #sp
 
 sp = ggplot(murders, aes(population/10^6, total, label = abb))
