@@ -1,0 +1,23 @@
+﻿Surname,"First name",Institution,Department,"Email address",State,"Started on",Completed,"Time taken",Grade/36.00,"Q. 1 /0.00","Q. 2 /0.00","Q. 3 /1.00","Q. 4 /2.00","Q. 5 /3.00","Q. 6 /4.00","Q. 7 /5.00","Q. 8 /5.00","Q. 9 /8.00","Q. 10 /8.00"
+phm18,i01,,,pmh18i01@domain.com,Finished,"5 December 2018  2:54 PM","5 December 2018  3:25 PM","31 mins 1 sec",6.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,0.00,0.00
+phm18,i02,,,pmh18i02@domain.com,Finished,"5 December 2018  2:53 PM","5 December 2018  3:24 PM","31 mins 3 secs",10.00,-,-,1.00,2.00,3.00,4.00,0.00,0.00,0.00,0.00
+phm18,i04,,,pmh18i04@domain.com,Finished,"5 December 2018  2:55 PM","5 December 2018  3:26 PM","31 mins 1 sec",10.00,-,-,1.00,2.00,3.00,4.00,0.00,0.00,0.00,0.00
+phm18,i05,,,pmh18i05@domain.com,Finished,"5 December 2018  2:54 PM","5 December 2018  3:25 PM","31 mins 1 sec",14.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,8.00,0.00
+phm18,i06,,,pmh18i06@domain.com,Finished,"5 December 2018  2:45 PM","5 December 2018  3:16 PM","31 mins 1 sec",26.00,-,-,1.00,2.00,3.00,4.00,0.00,0.00,8.00,8.00
+phm18,i07,,,pmh18i07@domain.com,Finished,"5 December 2018  2:48 PM","5 December 2018  3:19 PM","31 mins",6.00,-,-,0.00,2.00,0.00,4.00,0.00,0.00,0.00,0.00
+phm18,i16,,,pmh18i16@domain.com,Finished,"5 December 2018  2:57 PM","5 December 2018  3:28 PM","31 mins",7.00,-,-,1.00,2.00,0.00,4.00,0.00,0.00,0.00,0.00
+phm18,i18,,,pmh18i18@domain.com,Finished,"7 December 2018  10:04 AM","7 December 2018  10:35 AM","31 mins 9 secs",6.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,0.00,0.00
+phm18,i19,,,pmh18i19@domain.com,Finished,"7 December 2018  9:47 AM","7 December 2018  10:23 AM","35 mins 54 secs",0.00,-,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+phm18,i20,,,pmh18i20@domain.com,Finished,"7 December 2018  1:35 PM","7 December 2018  2:06 PM","31 mins 1 sec",22.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,8.00,8.00
+phm18,i22,,,pmh18i22@domain.com,"In progress","5 December 2018  3:04 PM",-,-,-,-,-,1.00,2.00,3.00,-,-,-,-,-
+phm18,i25,,,pmh18i25@domain.com,"In progress","7 December 2018  2:22 PM",-,-,-,-,-,-,-,-,-,-,-,8.00,8.00
+phm18,i29,,,pmh18i29@domain.com,Finished,"5 December 2018  10:12 AM","5 December 2018  10:38 AM","25 mins 25 secs",36.00,-,-,1.00,2.00,3.00,4.00,5.00,5.00,8.00,8.00
+phm18,i29,,,pmh18i29@domain.com,Finished,"5 December 2018  10:40 AM","5 December 2018  11:11 AM","31 mins 1 sec",6.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,0.00,0.00
+phm18,t02,,,pmh18t02@domain.com,"In progress","7 December 2018  2:24 PM",-,-,-,-,-,-,-,-,-,-,-,-,-
+phm18,t19,,,pmh18t19@domain.com,Finished,"5 December 2018  2:53 PM","5 December 2018  3:17 PM","23 mins 48 secs",14.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,8.00,0.00
+phm18,t20,,,pmh18t20@domain.com,"In progress","7 December 2018  2:25 PM",-,-,-,-,-,-,-,-,-,-,-,-,-
+phm18,t25,,,pmh18t25@domain.com,Finished,"5 December 2018  2:53 PM","5 December 2018  3:24 PM","31 mins",7.00,-,-,1.00,2.00,0.00,4.00,0.00,0.00,0.00,0.00
+phm18,t26,,,pmh18t26@domain.com,Finished,"5 December 2018  2:54 PM","5 December 2018  3:24 PM","29 mins 56 secs",15.00,-,-,1.00,2.00,3.00,4.00,0.00,5.00,0.00,0.00
+phm18,t28,,,pmh18t28@domain.com,Finished,"5 December 2018  2:48 PM","5 December 2018  3:19 PM","30 mins 57 secs",15.00,-,-,1.00,2.00,0.00,4.00,0.00,0.00,8.00,0.00
+phm18,t30,,,pmh18t30@domain.com,Finished,"5 December 2018  2:55 PM","5 December 2018  3:18 PM","22 mins 48 secs",14.00,-,-,1.00,2.00,3.00,0.00,0.00,0.00,8.00,0.00
+"Overall average",,,,,,,,,12.59,-,-,0.88,1.88,2.12,2.12,0.29,0.59,3.29,1.41
