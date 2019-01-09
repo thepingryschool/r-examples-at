@@ -15,6 +15,7 @@ r
 # add regression line
 abline(r)
 
+print("----------------")
 # full report
 summary(r)
 
